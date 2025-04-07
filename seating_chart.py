@@ -33,6 +33,4 @@ if __name__=='__main__':
                 print(grid[i, j], end=" ")
             else:
                 print(grid[i, j], end="\n")
-   # for i in range(rows):
-       # row_display = "  ".join([f'{grid[i, j]} ({i},{j})' for j in range(columns)])
-       # print(row_display)
+  
